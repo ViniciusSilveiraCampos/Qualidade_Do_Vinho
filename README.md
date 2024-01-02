@@ -10,7 +10,7 @@ vinhos cultivados na mesma região da Itália, mas derivados de três
 cultivares diferentes.
 A análise determinou as quantidades de 13 constituintes
 encontrado em cada um dos três tipos de vinhos.
--> Há 178 classificações, dividadas entre as três cultivas, com maior porcentual da segunda classe: 
+- Há 178 classificações, dividadas entre as três cultivas, com maior porcentual da segunda classe: 
 
 
 
