@@ -24,5 +24,14 @@ encontrado em cada um dos três tipos de vinhos.
 ##  Estrutura da Rede Neural. 🤖
 - A rede neural é composta pelas treze entradas, com duas camadas camadas ocultas, cada uma com oito neurônios ligadas as três camadas de saida. 
 
+```python
+classificador = nn.Sequential(
+    nn.Linear(13, 8, bias=True),
+    nn.ReLU(),
+    nn.Linear(8, 8, bias=True),
+    nn.ReLU(),
+    nn.Linear(8, 3, bias=True))
+```
+
 <p align='left'>
 <img src='https://github.com/ViniciusSilveiraCampos/QualidadeDoVinho-/assets/108243297/c00593ed-c748-472b-9ff1-589c394c7444' width=70% height=70%>
